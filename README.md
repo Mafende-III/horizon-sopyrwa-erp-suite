@@ -1,1 +1,0 @@
-# horizon-sopyrwa-erp-suite
