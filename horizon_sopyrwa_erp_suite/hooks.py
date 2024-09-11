@@ -4,7 +4,9 @@ app_publisher = "S.A.B"
 app_description = "Horizon SopyRwa Enterprise Resoruce Planning Tool V1.01.01"
 app_email = "mafendeblaise@gmail.com"
 app_license = "mit"
-
+app_modules = [
+    "Staff"
+]
 # Apps
 # ------------------
 
